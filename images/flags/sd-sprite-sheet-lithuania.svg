@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 78.3 44.8" style="enable-background:new 0 0 78.3 44.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#F20000;}
+	.st3{fill:#076439;}
+	.st4{fill:#C9161A;}
+	.st5{fill:#FFC000;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<defs>
+															
+																<ellipse id="SVGID_1_" transform="matrix(0.9995 -3.143985e-02 3.143985e-02 0.9995 584.0901 -148.1315)" cx="-4418.4" cy="-18647.5" rx="150.7" ry="150.7"/>
+														</defs>
+														<clipPath id="SVGID_2_">
+															<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+														</clipPath>
+														<g class="st0">
+															<g id="g1763">
+																<path id="path4640" class="st1" d="M-399.7-97.1h2.6l19.3-14.3v-1.8h-3.5L-400.7-99L-399.7-97.1z"/>
+																<path id="path6505" class="st1" d="M-378.7-97.1h-2.6l-19.3-14.3v-1.8h3.5l19.4,14.2L-378.7-97.1z"/>
+																<path id="path7127" class="st2" d="M-400.2-97.1h1.6l7-5h-1.6L-400.2-97.1z"/>
+																<path id="path8371" class="st2" d="M-386.9-108.2h1.6l7-5h-1.6L-386.9-108.2z"/>
+																<path id="path8994" class="st2" d="M-377.8-96.8v-1.1l-5.8-4.2h-1.8L-377.8-96.8z"/>
+																<path id="path9616" class="st2" d="M-400.6-113.5v1.1l5.8,4.2h1.8L-400.6-113.5z"/>
+																<rect id="rect1530" x="-391.7" y="-115.2" class="st1" width="5" height="19"/>
+																<rect id="rect2152" x="-402.7" y="-108.2" class="st1" width="25.9" height="5.8"/>
+																<rect id="rect3395" x="-402.7" y="-107.2" class="st2" width="25.9" height="3.8"/>
+																<rect id="rect4017" x="-390.7" y="-115.2" class="st2" width="3" height="19"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st3" d="M46.7,25.3h17.2c0.7-2,0.7-4.1,0-6.1H46.7C46,21.2,46,23.4,46.7,25.3z"/>
+		<path class="st4" d="M63.9,25.3H46.7c0.4,1.2,1.2,2.4,2.1,3.4c1.8,1.8,4.1,2.7,6.4,2.7s4.7-0.9,6.4-2.7
+			C62.7,27.7,63.4,26.6,63.9,25.3z"/>
+		<path class="st5" d="M46.7,19.3h17.2c-0.4-1.2-1.2-2.4-2.1-3.4c-1.8-1.8-4.1-2.7-6.4-2.7s-4.7,0.9-6.4,2.7
+			C47.8,16.9,47.1,17.9,46.7,19.3z"/>
+	</g>
+	<circle class="st6" cx="55.3" cy="22.3" r="10.6"/>
+</g>
+<g>
+	<g>
+		<path class="st3" d="M13.7,25.3h17.2c0.7-2,0.7-4.1,0-6.1H13.7C13,21.2,13,23.4,13.7,25.3z"/>
+		<path class="st4" d="M30.9,25.3H13.7c0.4,1.2,1.2,2.4,2.1,3.4c1.8,1.8,4.1,2.7,6.4,2.7s4.7-0.9,6.4-2.7
+			C29.7,27.7,30.4,26.6,30.9,25.3z"/>
+		<path class="st5" d="M13.7,19.3h17.2c-0.4-1.2-1.2-2.4-2.1-3.4c-1.8-1.8-4.1-2.7-6.4-2.7s-4.7,0.9-6.4,2.7
+			C14.8,16.9,14.1,18,13.7,19.3z"/>
+	</g>
+	<circle class="st7" cx="22.3" cy="22.3" r="10.6"/>
+</g>
+</svg>
